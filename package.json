@@ -1,26 +1,17 @@
 {
-  "name": "@notchpay/payment",
-  "version": "1.0.2",
-  "description": "Notch Pay API wrapper.",
+  "name": "@notchafrica/newsletter",
+  "version": "1.0.0",
+  "description": "Mailchimp alternative nodejs.",
   "main": "lib/index.js",
   "keywords": [
-    "notchpay",
-    "stripe",
-    "payment processing",
-    "credit cards",
-    "orange money",
-    "payment gateways",
-    "mobile money",
+    "newsletter",
+    "mail",
     "api"
   ],
-  "author": "Chapdel KAMGA <chapdel.kamga2@gmail.com>",
-  "homepage": "https://github.com/notchpay/payment-nodejs#readme",
-  "bugs": {
-    "url": "https://github.com/notchpay/payment-nodejs/issues"
-  },
+  "author": "Chapdel KAMGA <drop@chapdel.me>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notchpay/payment-nodejs.git"
+    "url": "git+https://github.com/notchafrica/newsletter-nodejs.git"
   },
   "engines": {
     "node": "^8.1 || >=10.*"
